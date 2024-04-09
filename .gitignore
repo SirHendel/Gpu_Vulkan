@@ -1,0 +1,4 @@
+# Ignoriere Dateien im Verzeichnis "shaders"
+shaders/compile.sh
+shaders/*.spv
+
