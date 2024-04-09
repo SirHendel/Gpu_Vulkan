@@ -1,5 +1,6 @@
 Um die Shader-Dateien zu erstellen, muss eine Bash-Shell mit glslc ausgeführt werden, das in der Vulkan-SDK verfügbar ist.
 Beispiel für die bash datei
+
 /home/<usr>/SDK_libs_etc/1.3.280.1/x86_64/bin/glslc shader.vert -o vert.spv
 /home/<usr>/SDK_libs_etc/1.3.280.1/x86_64/bin/glslc shader.frag -o frag.spv
 
