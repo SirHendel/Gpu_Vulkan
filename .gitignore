@@ -1,2 +1,2 @@
 # Ignoriere Dateien im Verzeichnis "shaders"
-shaders/*
+shaders/
